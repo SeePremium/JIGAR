@@ -178,7 +178,10 @@ Nᴀᴍᴇ - {}"""
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ..."""
 
-    MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
+    MELCOW_ENG = """<b>ℍᴇʟʟᴏ{} 😍, 𝐀ɴᴅ 𝐖ᴇʟᴄᴏᴍᴇ 𝐓ᴏ {} 🅖ʀᴏᴜᴘ ✿ ᴛʜɪs ɢʀᴏᴜᴘ ɪs ᴍᴏᴠɪᴇs ʀᴇʟᴀᴛᴇᴅ ɢʀᴏᴜᴘ & ᴘʟᴢ sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇs ᴀɴᴅ ᴘʀᴏᴠɪᴅᴇ ʟɪɴᴋ 
+    ᴛʜᴀɴᴋs.. ✿ 
+    
+❤️</b>"""
 
     SHORTLINK_INFO = """
 
@@ -212,7 +215,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b> Size ⚙️: {file_size}</b>""" 
+<b> Size ⚙️: {file_size} 
+
+@Filmy_Funs_Update</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
